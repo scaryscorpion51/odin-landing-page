@@ -10,7 +10,7 @@ This project showcases a clean and modern landing page for a fictional gym suppl
 - **CSS3**: Styling and responsive design  
 - **Flexbox**: Flexible and efficient page layout  
 
-### 📁 Project Structure
+### Project Structure
 ```plaintext
 odin-landing-page/
 ├── index.html ← Main landing page
@@ -26,5 +26,7 @@ odin-landing-page/
 
 ## Image Credits
 - Supplement images used in this project by [Andrey Khoviakov](https://unsplash.com/@khoviakov), from [Unsplash](https://unsplash.com/)
+- Supplement images used in this project by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious), from [Unsplash](https://unsplash.com/)
+
 
 
