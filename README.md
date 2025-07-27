@@ -24,3 +24,7 @@ odin-landing-page/
 - Benefits and testimonials section
 - Responsive layout using Flexbox
 
+## Image Credits
+- Supplement images used in this project by [Andrey Khoviakov](https://unsplash.com/@khoviakov), from [Unsplash](https://unsplash.com/)
+
+
