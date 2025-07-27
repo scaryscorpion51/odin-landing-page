@@ -92,38 +92,38 @@ button {
     font-size: 40px;
     font-weight: 850;
     text-align: center;
-    margin: 50px auto;
+    margin: 70px auto;
 }
 
 .cards{
     display: flex;
     gap: 30px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .card {
     text-align: center;
-    margin-bottom: 50px;
 }
 
 .body-image {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border: 3px solid rgb(60, 60, 219);
     border-radius: 8px;
     margin-bottom: 12px;
 }
 
 .card-text{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
 }
 
 .review {
-    display: flex;
-    flex-direction: column;
     background-color: #E5E7EB;
     padding: 130px 600px;
+    margin: 130px 0;
+    min-width: 500px;
 }
 
 .review-text {
@@ -139,4 +139,40 @@ button {
     font-weight: bold;
     text-align: end;
     color: black;
+}
+
+.cta {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(24, 100, 151);
+    justify-content: space-evenly;
+    color: white;
+    border-radius: 10px;
+    padding: 100px;
+    margin-bottom: 200px;
+}
+
+.cta-heading {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.cta-body {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cta button{
+    border: 2px solid white;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    padding: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 }
