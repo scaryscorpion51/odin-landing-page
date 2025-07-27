@@ -27,6 +27,6 @@ odin-landing-page/
 ## Image Credits
 - Supplement images used in this project by [Andrey Khoviakov](https://unsplash.com/@khoviakov), from [Unsplash](https://unsplash.com/)
 - Supplement images used in this project by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious), from [Unsplash](https://unsplash.com/)
-
+- Gym supplements logo used in this project by [OpenClipart](https://freesvg.org/by/OpenClipart), from [FreeSVG](https://freesvg.org/)
 
 
